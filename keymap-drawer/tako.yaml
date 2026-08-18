@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: tako}
 layers:
   default:
-  - Q
+  - A
   - W
   - E
   - R
