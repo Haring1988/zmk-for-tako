@@ -10,4 +10,4 @@ Don't map actuation levels too close to base reads (what you see in console when
 
 ## Keymap
 
-![Tako Keymap](./keymap-drawer/tako.svg)
+![Tako Keymap](https://raw.githubusercontent.com/Haring1988/zmk-for-tako/master/keymap-drawer/tako.svg)
