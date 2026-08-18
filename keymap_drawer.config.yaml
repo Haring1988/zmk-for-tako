@@ -1,9 +1,0 @@
-parse_config:
-  preprocess: true
-
-draw_config:
-  key_w: 60
-  key_h: 60
-  split_gap: 30
-  combo_w: 28
-  combo_h: 26
