@@ -1,0 +1,276 @@
+layout: {zmk_keyboard: tako}
+layers:
+  default:
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - A
+  - S
+  - D
+  - F
+  - {t: G, h: '5'}
+  - {t: H, h: '5'}
+  - J
+  - K
+  - L
+  - ENTER
+  - {t: Z, h: '7'}
+  - X
+  - C
+  - V
+  - B
+  - N
+  - M
+  - ','
+  - .
+  - {t: /, h: LSHFT}
+  - {t: LSHFT, h: '6'}
+  - {t: LEFT WIN, h: nav}
+  - SPACE
+  - {t: BACKSPACE, h: other}
+  nav:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - '-'
+  - '='
+  - F2
+  - F5
+  - ''
+  - \
+  - '['
+  - ']'
+  - ;
+  - ''''
+  - '`'
+  - MUTE
+  - '&key'
+  - VOL DN
+  - VOL UP
+  - ''
+  - UP
+  - LEFT
+  - DOWN
+  - RIGHT
+  - LSHFT
+  - {type: held}
+  - SPACE
+  - BACKSPACE
+  other:
+  - Sft+1
+  - Sft+2
+  - Sft+3
+  - Sft+4
+  - Sft+5
+  - Sft+6
+  - Sft+7
+  - Sft+8
+  - Sft+9
+  - Sft+0
+  - Sft+-
+  - Sft+=
+  - INSERT
+  - HOME
+  - PAGE UP
+  - Sft+\
+  - Sft+[
+  - Sft+]
+  - Sft+;
+  - Sft+'
+  - Sft+`
+  - {t: ▽, type: trans}
+  - PRINTSCREEN
+  - END
+  - PG DN
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - Sft+,
+  - Sft+.
+  - Sft+/
+  - CALCULATOR
+  - {t: ▽, type: trans}
+  - SPACE
+  - {type: held}
+  '6':
+  - Ctl+J
+  - Ctl+Alt+W
+  - Ctl+LSHFT
+  - Ctl+Y
+  - Alt+TAB
+  - '7'
+  - '8'
+  - '9'
+  - Sft+=
+  - '-'
+  - {t: Ctl+A, h: Ctl+Alt+A}
+  - Ctl+S
+  - Gui+D
+  - Ctl+F
+  - Gui+L
+  - '4'
+  - '5'
+  - '6'
+  - Sft+8
+  - /
+  - Ctl+Z
+  - Ctl+X
+  - Ctl+C
+  - Ctl+V
+  - Ctl+B
+  - '1'
+  - '2'
+  - '3'
+  - '='
+  - Gui+TAB
+  - {type: held}
+  - LCTRL
+  - '0'
+  - .
+  '5':
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - UP
+  - {t: ▽, type: trans}
+  - TAB
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - UP
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - LEFT
+  - DOWN
+  - RIGHT
+  - {type: held}
+  - {t: ▽, type: trans}
+  - LEFT
+  - DOWN
+  - RIGHT
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - LEFT ALT
+  - SPACE
+  - BACKSPACE
+  num:
+  - F1
+  - F2
+  - F3
+  - F4
+  - F5
+  - F6
+  - F7
+  - F8
+  - F9
+  - F10
+  - '&bootloader'
+  - '&sys_reset'
+  - BT CLR
+  - BT CLR ALL
+  - BT NXT
+  - BT PRV
+  - {t: BT DISC, h: '0'}
+  - {t: BT DISC, h: '1'}
+  - F11
+  - F12
+  - {t: BT, h: '0'}
+  - {t: BT, h: '1'}
+  - {t: BT, h: '2'}
+  - {t: BT, h: '3'}
+  - {t: BT, h: '4'}
+  - {t: BT DISC, h: '2'}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  '7':
+  - LEFT
+  - RIGHT
+  - '7'
+  - '8'
+  - '9'
+  - Sft+=
+  - Sft+-
+  - Sft+8
+  - /
+  - '='
+  - DEL
+  - BSPC
+  - '4'
+  - '5'
+  - '6'
+  - Sft+9
+  - Sft+0
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - ENTER
+  - '1'
+  - '2'
+  - '3'
+  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '0'
+  - .
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+combos:
+- p: [0, 1]
+  k: ESC
+- p: [8, 9]
+  k: BACKSPACE
+- p: [30, 31]
+  k: LEFT WIN
+- p: [10, 11]
+  k: DELETE
+- p: [20, 21]
+  k: CAPS
+- p: [28, 29]
+  k: TAB
+- p: [18, 19]
+  k: ENTER
+- p: [6, 7]
+  k: PAGE UP
+- p: [16, 17]
+  k: PAGE DOWN
+- p: [2, 3]
+  k: HOME
+- p: [12, 13]
+  k: END
+- p: [7, 8]
+  k: Sft+9
+- p: [17, 18]
+  k: Sft+0
+- p: [28, 27]
+  k: num
